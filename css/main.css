@@ -189,10 +189,12 @@ a, a:hover, button, button:hover, .btnborder, .btntop {
       font: 600 18px/1 "Open Sans";
       color: #3c88e7;
       margin: 0 0 15px;
-      text-transform: uppercase; }
+      text-transform: uppercase;
+      text-align: justify; }
     .our-services--element p {
-      font: 400 14px/25px "Source Sans Pro";
-      margin-bottom: 0; }
+      font: 400 14px/25px "Source Sans Pro"; color: white;
+      margin-bottom: 0;
+      text-align: justify; }
     .our-services--element__image {
       position: absolute;
       right: -115px;
